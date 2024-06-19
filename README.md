@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vamsi Sisti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Java Full Stack**
+- 🌱 I’m currently learning **Data Analyst**
 
 - 📫 How to reach me **sistivamsi07@gmail.com**
 
